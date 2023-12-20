@@ -1,6 +1,7 @@
 # final-project-G3
 https://data.gov.tw/dataset/166494
 https://vipmbr.cpc.com.tw/openData/electricmotoData
+https://autos.yahoo.com.tw/news/yahoo%E5%A5%87%E6%91%A9%E9%9B%BB%E5%8B%95%E8%BB%8A%E5%A4%A7%E8%AA%BF%E6%9F%A5%EF%BC%88%E4%B8%89%EF%BC%89%E6%B6%88%E8%B2%BB%E8%80%85%E8%B3%BC%E8%B2%B7%E6%84%8F%E9%A1%98%E3%80%81%E6%9C%80%E6%9C%89%E7%9F%A5%E5%90%8D%E5%BA%A6%E7%9A%84%E9%9B%BB%E5%8B%95%E6%A9%9F%E8%BB%8A%E5%93%81%E7%89%8C-133142169.html
 
 library(readr)
 md <- jsonlite::fromJSON("https://vipmbr.cpc.com.tw/openData/electricmotoData")
